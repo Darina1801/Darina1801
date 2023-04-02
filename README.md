@@ -14,4 +14,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=2077)
 
 <!--Статистика языков в репозиториях и Статистика профиля -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=merko) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=gotham) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=ocean_dark) 
