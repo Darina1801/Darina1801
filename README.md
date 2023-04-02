@@ -24,10 +24,9 @@
 
 
 <!--Карточка профиля: -->
-<h3 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)</h3>
+<p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)</p>
 
 <!--Статистика языков в репозиториях: -->
-<h3 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
-
+<p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
 <!--Статистика профиля: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)</h3>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)</p>
