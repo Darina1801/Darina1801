@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on something cool! ✨
 - 🌱 I love learning on new stuff
-- 📫 Reach out to me on <a herf="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+- 📫 Reach out to me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a herf="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US">link</a>
 
 :test_tube: :hammer: :wrench: :bricks: My tech stack: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
