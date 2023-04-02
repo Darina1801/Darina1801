@@ -16,11 +16,9 @@
 <!--Статистика языков в репозиториях и Статистика профиля -->
 <img align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=gotham" alt="Stats" class="center"> <<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=gotham" alt="Repos per Language" class="center">
 
-<style lang="css">
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 99%;
-  }
-</style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
