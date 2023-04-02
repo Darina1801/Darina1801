@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Darina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Engineer at Relativity, Poland :PL:</h3>
+<h3 align="center">Software Engineer at Relativity, Poland 🇵🇱</h3>
+<h3 align="center">Originally from Saint-Petersburg, Russia 🇷🇺</h3>
 
 ![](https://komarev.com/ghpvc/?username=Darina1801)
 
