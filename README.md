@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Darina1801)
 
-🔭 I’m currently working on something cool! ✨
-🌱 I’m currently learning on: ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-📫 Reach out to me <a herf="https://www.linkedin.com/in/darina-kavokina/?locale=en_US">on LinkedIn</a>
+- 🔭 I’m currently working on something cool! ✨
+- 🌱 I love learning on new stuff
+- 📫 Reach out to me <a herf="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US">on LinkedIn</a>
 
 :test_tube: :hammer: :wrench: :bricks: My tech stack: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -24,13 +24,10 @@
 
 
 <!--Карточка профиля: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)
-
-<!--Статистика языков в коммитах: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darina1801&theme=solarized_dark)
+<h3 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)</h3>
 
 <!--Статистика языков в репозиториях: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
+<h3 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
 
 <!--Статистика профиля: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)</h3>
