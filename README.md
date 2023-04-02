@@ -14,13 +14,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=2077" alt="Profile Summary Card" class="center">
 
 <!--Статистика языков в репозиториях и Статистика профиля -->
-<img align="middle">![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=gotham) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=gotham)</img>
+<img align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=gotham" alt="Stats" class="center"> <<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=gotham" alt="Repos per Language" class="center">
 
 <style lang="css">
   .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 99%;
   }
 </style>
