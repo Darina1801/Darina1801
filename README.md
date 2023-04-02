@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on something cool! ✨
 - 🌱 I love learning on new stuff
-- 📫 Reach out to me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a herf="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US">link</a>
+- 📫 Reach out to me on <a href="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-:test_tube: :hammer: :wrench: :bricks: My tech stack: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+🧰 My tech stack: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
