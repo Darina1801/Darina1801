@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Darina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Engineer at Relativity, Poland :Poland:</h3>
+<h3 align="center">Software Engineer at Relativity, Poland :PL:</h3>
+
 ![](https://komarev.com/ghpvc/?username=Darina1801)
+
 🔭 I’m currently working on something cool! ✨
 🌱 I’m currently learning on: ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 📫 Reach out to me <a herf="https://www.linkedin.com/in/darina-kavokina/?locale=en_US">on LinkedIn</a>
@@ -22,13 +24,13 @@
 
 
 <!--Карточка профиля: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)
 
 <!--Статистика языков в коммитах: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darina1801&theme=solarized_dark)
 
 <!--Статистика языков в репозиториях: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
 
 <!--Статистика профиля: -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)
