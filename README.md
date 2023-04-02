@@ -24,9 +24,13 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/prussian/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/prussian/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/prussian/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/prussian/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <!--Карточка профиля: -->
-<p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)]
 
 <!--Статистика языков в репозиториях и Статистика профиля -->
-<p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)
