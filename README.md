@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Darina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Engineer at Relativity, Poland 🇵🇱</h3>
-<h3 align="center">Originally from Saint-Petersburg, Russia 🇷🇺</h3>
+<h4 align="center">Originally from Saint-Petersburg, Russia 🇷🇺</h4>
 
 ![](https://komarev.com/ghpvc/?username=Darina1801)
 
 - 🔭 I’m currently working on something cool! ✨
 - 🌱 I love learning on new stuff
-- 📫 Reach out to me <a herf="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US">on LinkedIn</a>
+- 📫 Reach out to me on <a herf="https://www.linkedin.com" target="_in/darina-kavokina/?locale=en_US"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 :test_tube: :hammer: :wrench: :bricks: My tech stack: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -27,7 +27,6 @@
 <!--Карточка профиля: -->
 <p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darina1801&theme=solarized_dark)</p>
 
-<!--Статистика языков в репозиториях: -->
+<!--Статистика языков в репозиториях и Статистика профиля -->
 <p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darina1801&theme=solarized_dark)
-<!--Статистика профиля: -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darina1801&theme=solarized_dark)</p>
